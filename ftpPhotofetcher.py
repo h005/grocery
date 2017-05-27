@@ -2,7 +2,7 @@
 # @Author: h005
 # @Date:   2017-05-21 11:21:19
 # @Last Modified by:   h005
-# @Last Modified time: 2017-05-22 08:47:11
+# @Last Modified time: 2017-05-24 22:48:45
 
 # this script was created for crawling pictures
 # from the phone.
@@ -21,10 +21,10 @@ import urllib2
 
 import io
 
-ftpAddress = 'ftp://172.28.134.132:3721/DCIM/Camera/'
+ftpAddress = 'ftp://192.168.1.105:3721/DCIM/Camera/'
 
 dateMonth = 'May'
-dateDay = '21'
+dateDay = '24'
 
 Dir = './photos/'
 
